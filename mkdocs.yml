@@ -1,0 +1,13 @@
+  
+# 站点名
+site_name: Template
+
+# 主题
+theme: readthedocs
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - toc:
+      permalink: "#"
